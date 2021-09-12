@@ -1,0 +1,2 @@
+# Predicting Wine Quality Based on its Physiochemical Properties
+ Many wine experts argue that acid is a vital component of wine. #Build and evaluate "two" random forest models to predict wine quality using (i) all available predictor variables and (ii) all but acidity measures (fixed.acidity, volatile.acidity, citric.acid, and pH). #Based on your analysis, do you agree that acid is a significant predictor of wine quality (sensory preference)?
